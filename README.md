@@ -1,16 +1,20 @@
 # grocery_app
 
-A new Flutter project.
+In this flutter Project i will built Grocery App and These Are The Screens of My Project
 
-## Getting Started
+## Welcome Screen
 
-This project is a starting point for a Flutter application.
+<img width="203" alt="Welcome" src="https://user-images.githubusercontent.com/116594165/225729209-78ec94f6-2ed2-4f8e-b2d7-4cecdc3533b0.png">
 
-A few resources to get you started if this is your first Flutter project:
+## Dashboard Screen
+<img width="201" alt="dashboard" src="https://user-images.githubusercontent.com/116594165/225729390-c0288f91-e0ed-4e70-bbdf-310758a25f34.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Deail Screen
+<img width="201" alt="detail" src="https://user-images.githubusercontent.com/116594165/225729467-b15eaaea-7d95-42e0-aeff-beec8767d6e3.png">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+Thanks For you visitin fallow Happy Coding 😍💻🖥️
+
+##@EngDhalle
